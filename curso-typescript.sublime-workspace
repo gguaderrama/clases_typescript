@@ -1,0 +1,311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "coche.ts",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 419,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"typescript",
+				"TypeScript: Refactor"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/type-script/coche.ts",
+		"/C/xampp/htdocs/type-script/index.html",
+		"/C/xampp/htdocs/type-script/prueba.ts",
+		"/C/xampp/htdocs/type-script/TypeScript",
+		"/C/xampp/htdocs/curso-angular/index.html",
+		"/C/xampp/htdocs/curso-angular/app/main.ts",
+		"/C/xampp/htdocs/curso-angular/readme.md",
+		"/C/xampp/htdocs/curso-angular/COMPONENTES TEORIA",
+		"/C/xampp/htdocs/curso-angular/TYPESCRIPT",
+		"/C/xampp/htdocs/curso-angular/app/app.component.ts",
+		"/C/xampp/htdocs/curso-angular/COMPONENTES",
+		"/C/xampp/htdocs/curso-angular/package.json",
+		"/C/xampp/htdocs/curso-angular/typings.json",
+		"/C/xampp/htdocs/curso-angular/tsconfig.json",
+		"/C/Users/Bienvenido/Desktop/functions.php",
+		"/C/xampp/htdocs/platzi-overflow/package.json",
+		"/C/xampp/htdocs/platzi-overflow/src/app/material.module.ts",
+		"/C/xampp/htdocs/platzi-overflow/src/styles.css",
+		"/C/xampp/htdocs/platzi-overflow/src/app/app.module.ts",
+		"/C/xampp/htdocs/platzi-overflow/src/index.html",
+		"/C/Users/Bienvenido/Desktop/login-page.php",
+		"/C/Users/Bienvenido/Desktop/css",
+		"/C/Users/Bienvenido/Desktop/wp-config.php",
+		"/C/Users/Bienvenido/Desktop/hi.php",
+		"/C/xampp/htdocs/AcademiaMentora/wp-content/themes/one/style.css",
+		"/C/xampp/htdocs/GENESIS/README INSTRUCCIONES GENESIS FRAMEWORK.txt",
+		"/C/xampp/htdocs/AcademiaMentora/wp-content/themes/enterprise-pro/functions.php",
+		"/C/xampp/htdocs/AcademiaMentora/wp-content/themes/one/main_custom.css",
+		"/C/xampp/htdocs/AcademiaMentora/wp-content/themes/one/functions.php",
+		"/C/xampp/htdocs/AcademiaMentora/wp-content/themes/enterprise-pro/style.css",
+		"/C/xampp/htdocs/functions.php",
+		"/C/xampp/htdocs/header.php",
+		"/C/xampp/htdocs/style.css",
+		"/C/xampp/htdocs/custom_template.php",
+		"/C/xampp/htdocs/GENESIS/one/style.css",
+		"/C/xampp/htdocs/AcademiaMentora/sftp-config.json",
+		"/C/xampp/htdocs/AcademiaMentora/wp-content/one/page_landing.php",
+		"/C/xampp/htdocs/AcademiaMentora/wp-content/one/functions.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/page_landing.php",
+		"/C/xampp/htdocs/Aleatorio/aleatorio.php",
+		"/C/Users/Bienvenido/Documents/test.php.txt",
+		"/C/Users/Bienvenido/Documents/test.php",
+		"/C/Users/Bienvenido/Documents/index.php",
+		"/C/xampp/htdocs/.htaccess",
+		"/C/xampp/htdocs/Aleatorio/aleatorio.php.txt",
+		"/C/xampp/htdocs/Naus/index.php",
+		"/C/xampp/htdocs/Naus/sftp-config.json",
+		"/C/xampp/htdocs/Naus/index.html"
+	],
+	"find":
+	{
+		"height": 144.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var nombre:string = \"Gloria Guaderrama\";\n// var edad:number = 29;",
+			"\n",
+			".genesis-nav-menu",
+			".title-area",
+			".site-header .wrap ",
+			".genesis-nav-menu a ",
+			"genesis-structural-wraps",
+			"Template",
+			"Template: genesis",
+			"Template",
+			"Author",
+			"genesis_before_header",
+			"video",
+			"modal",
+			"5528"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "coche.ts",
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4.0,
+								"tabSize": 4.0
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 303.0,
+	"status_bar_visible": true
+}
